@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Richard and Rachel's demo Pages
 
 You can use the [editor on GitHub](https://github.com/smirby/microblog/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
