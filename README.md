@@ -1,4 +1,4 @@
-## Welcome to Richard's demo Pages
+## Welcome to Richard's demo page
 
 ### I am a professor at Simon Fraser University in Vancouver.
 
