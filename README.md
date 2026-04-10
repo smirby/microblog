@@ -1,8 +1,5 @@
-## Welcome to Richard and Rachel's demo Pages
+## Welcome to Richard's demo Pages
 
-### We are professors at the Centre for Digital Media in Vancouver.
+### I am a professor at Simon Fraser University in Vancouver.
 
-We sometimes like to read comic books. More often, these days, we read comics on the web. My favorite comics are:
-
-1. XKCD
-2. Questionable Content
+I am writing a book about AI Safety titled From Tool To Actor.
